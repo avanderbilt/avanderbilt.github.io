@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+
+{% include head.html %}
+
+<body>
+
+    <div class="container" role="main">
+
+      <div class="page-header">
+        <h1><a href="{{ site.baseurl }}/" title="Home">{{ site.title }}</a> <small>{{ site.tagline }}</small></h1>
+      </div>
+
+	{{ content }}
+
+	</div>
+
+{% include head.html %}
+
+</body>
