@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: empty_page
 title: For Josh
 ---
 
