@@ -1,9 +1,7 @@
-title: The Holy Gnostic Rosary  
-author: Arthur A. Vanderbilt  
-date: 2017-10-05 11:27:39  
-css: http://aav.me/css/md-styles.css  
-
-# The Holy Gnostic Rosary
+---
+layout: page
+title: The Holy Gnostic Rosary
+---
 
 _The Gnostic Rosary was formed from the meditational practice of The Guild, a devotional society of the Ecclesia Gnostica formerly directed by Rev. John Goelz and Rev. Steven Marshall. The original is [here](http://gnosis.org/library/rosary.htm)._
 
@@ -11,7 +9,7 @@ _The Gnostic Rosary was formed from the meditational practice of The Guild, a de
 
 0. The [Sign of the Cross][sign_of_the_cross] and the [Gnostic's Creed][creed].
 0. [The Gnostic's Prayer][prayer].
-0. [Hail Sophia][hail_sophia] three times.  
+0. [Hail Sophia][hail_sophia] three times.
 0. [Gloria Patri][gloria_patri]
 0. Announce the [First Mystery][first_mystery], then say [The Gnostic's Prayer][prayer].
 0. [Hail Sophia][hail_sophia] ten times while meditating on the First Mystery.
@@ -34,7 +32,7 @@ _The Gnostic Rosary was formed from the meditational practice of The Guild, a de
 ### The Sign of the Cross [sign_of_the_cross]
 
 In the name of the Unknown Father, in Truth, Mother of all, in union and redemption and sharing of the powers, peace to all on whom this name reposes.
-  
+
 ### The Gnostic's Creed [creed]
 
 I acknowledge one great invisible God, unrevealable, unmarked, ageless and unproclaimable; the unknown Father, the Aeon of the aeons, who brought forth in the silence with his Providence: the Father, the Mother, and the Son.
@@ -46,19 +44,19 @@ I acknowledge the Holy Spirit, the Bride of the Christos, the Mother of the Aeon
 I acknowledge the Light of the one church in every place: Interior, Invisible, Secret and Universal, the foundation of the lights of the great living God. I seek liberation of my perfection from the corruptions of the world and look to the gathering of the sparks of Light from the sea of forgetfulness.
 
 Amen.
-  
+
 ### The Gnostic's Prayer [prayer]
 
 Almighty God, whose footstool is the highest firmament: Great Ruler of Heaven, and all the powers therein: Hear the prayers of Thy Servants, who put their trust in Thee. We pray Thee, supply our needs from day to day: command Thy heavenly host to comfort and succor us: That it may be to Thy glory and unto the good of man. Forgive us our transgressions as we forgive our brothers and sisters: be present with us: strengthen and sustain us: For we are but instruments in Thy hands. Let us not fall into temptation: defend us from all danger and evil: Let Thy mighty power ever guard and protect us. Thou great fount of knowledge and Wisdom: Instruct Thy servants by Thy holy presence: Guide and support us, now and forever.
 
 Amen.
-  
+
 ### Hail Sophia [hail_sophia]
 
 Hail Sophia, full of light, the Christ is with thee, blessed art thou among all the aeons, and blessed is the liberator of thy light, Jesus. Holy Sophia, Mother of all gods, pray to the Light for us thy children, now and in the hour of our death.
 
 Amen.
-  
+
 ### Gloria Patri [gloria_patri]
 
 Glory be to the Father, and to the Son, and to the Holy Spirit. As it was in the beginning, is now, and ever shall be, unto the Aeons of Aeons.

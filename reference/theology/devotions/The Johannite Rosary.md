@@ -1,9 +1,7 @@
-title: The Johannite Rosary  
-author: Arthur A. Vanderbilt  
-date: 2017-10-05 11:27:39  
-css: http://aav.me/css/md-styles.css  
-
-# The Johannite Rosary
+---
+layout: page
+title: The Johannite Rosary
+---
 
 _The Johannite Rosary is copyright 2011 by Msgr. Scott Rassbach._
 
@@ -37,101 +35,101 @@ _Published in [Sanctuary of the Sacred Flame](Sanctuary%20of%20the%20Sacred%20Fl
 
 &#x2123; What makes us free is the Gnosis
 
-&#x211F; Of who we were, of what we have become;  
-of where we were, of wherein we have been cast;  
-of whereto we speed, of wherefrom we are redeemed;  
-of what birth truly is, and of what rebirth truly is.  
+&#x211F; Of who we were, of what we have become;
+of where we were, of wherein we have been cast;
+of whereto we speed, of wherefrom we are redeemed;
+of what birth truly is, and of what rebirth truly is.
 
 ### Our Father [our_father]
 
-&#x2123; Our Father, who art in heaven,  
-hallowed be Thy name;  
-Thy kingdom come;  
-Thy will be done on earth as it is in heaven.  
+&#x2123; Our Father, who art in heaven,
+hallowed be Thy name;
+Thy kingdom come;
+Thy will be done on earth as it is in heaven.
 
-&#x211F; Give us this day our daily bread;  
-and forgive us our trespasses  
-as we forgive those who trespass against us;  
-and lead us not into temptation;  
-but deliver us from evil.  
-For thine is the Kingdom,  
-and the Power,  
-and the Glory,  
-Now and Forever unto the ages of ages.  
+&#x211F; Give us this day our daily bread;
+and forgive us our trespasses
+as we forgive those who trespass against us;
+and lead us not into temptation;
+but deliver us from evil.
+For thine is the Kingdom,
+and the Power,
+and the Glory,
+Now and Forever unto the ages of ages.
 
 Amen.
 
 ### Prayer of Saint John [saint_john]
 
-&#x2123; O blessed Christ,  
-give me stillness of soul in You.  
+&#x2123; O blessed Christ,
+give me stillness of soul in You.
 
-&#x211F; Let Your mighty calmness reign in me.  
-Guide me, O Lord of Gentleness,  
-Lord of Peace.  
+&#x211F; Let Your mighty calmness reign in me.
+Guide me, O Lord of Gentleness,
+Lord of Peace.
 
 ### Trio at the Cross [trio_at_the_cross]
 
-&#x2123; Mary, Sorrowful and Inviolate Mother  
-John, Evangelist and Beloved Disciple  
-Jesus, Slain and Risen Again  
+&#x2123; Mary, Sorrowful and Inviolate Mother
+John, Evangelist and Beloved Disciple
+Jesus, Slain and Risen Again
 
-&#x211F; Mary, John, Jesus. At the foot of the Cross, and Upon the Cross  
-We remember Christ on the Cross.  
-We remember the Mourning of Mary.  
-We remember John and the Daughters of Jerusalem.  
-We remember Christ Risen.  
-Bring us Light.  
+&#x211F; Mary, John, Jesus. At the foot of the Cross, and Upon the Cross
+We remember Christ on the Cross.
+We remember the Mourning of Mary.
+We remember John and the Daughters of Jerusalem.
+We remember Christ Risen.
+Bring us Light.
 
 ### Hail, Holy Queen [hail_holy_queen]
 
-Hail, holy Queen, Mother of Wisdom!  
-Our life, our sweetness, and our hope!  
-To thee do we sing, awakened  
-children of Eve, to thee do we send  
-up our hope, for wholeness,  
-compassion and understanding.  
-Hear your children, most gracious advocate,  
-and send us sight to see; and  
-after this our exile show unto us the  
-blessed fruit of thy holy Logos;  
-O clement, O loving, O Holy Sophia.  
-Be with us, O holy Mother of God  
-And lead us back to our eternal home.  
+Hail, holy Queen, Mother of Wisdom!
+Our life, our sweetness, and our hope!
+To thee do we sing, awakened
+children of Eve, to thee do we send
+up our hope, for wholeness,
+compassion and understanding.
+Hear your children, most gracious advocate,
+and send us sight to see; and
+after this our exile show unto us the
+blessed fruit of thy holy Logos;
+O clement, O loving, O Holy Sophia.
+Be with us, O holy Mother of God
+And lead us back to our eternal home.
 
 ### O Divine Logos [o_divine_logos]
 
-O Divine Logos,  
-Transform me into Yourself.  
-May my hands be the hands of Christ.  
-Grant that every faculty of my body  
-May serve only to glorify You.  
-Above all,  
-Give me sight to see what has always been  
-The Kingdom of God, without and within  
-That we may attain to the Holy Gnosis,  
-and have a share and an inheritance  
-with all the saints and adepti  
-who have pleased you since the beginning.  
-Transform my soul and all its powers  
-So that my memory, will and affection  
-May be the memory, will and affections  
-Of Christ.  
+O Divine Logos,
+Transform me into Yourself.
+May my hands be the hands of Christ.
+Grant that every faculty of my body
+May serve only to glorify You.
+Above all,
+Give me sight to see what has always been
+The Kingdom of God, without and within
+That we may attain to the Holy Gnosis,
+and have a share and an inheritance
+with all the saints and adepti
+who have pleased you since the beginning.
+Transform my soul and all its powers
+So that my memory, will and affection
+May be the memory, will and affections
+Of Christ.
 
 ### Hail Mother, Rightful Queen of Faithful Souls [hail_mother]
 
-Hail Mother  
-Rightful Queen of faithful souls,  
-Who never erred,  
-Who never lied,  
-Follower of the rightful course,  
-Who never doubted  
-lest we should accept death  
-in the realm of the wrong god;  
-as we do not belong to this realm  
-and this realm is not ours -  
-teach us Your Gnosis  
-and to love what You love.  
+Hail Mother
+Rightful Queen of faithful souls,
+Who never erred,
+Who never lied,
+Follower of the rightful course,
+Who never doubted
+lest we should accept death
+in the realm of the wrong god;
+as we do not belong to this realm
+and this realm is not ours -
+teach us Your Gnosis
+and to love what You love.
 
 ## The Personal Mysteries
 
