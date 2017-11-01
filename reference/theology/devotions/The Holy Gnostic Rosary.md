@@ -1,7 +1,10 @@
----
-layout: page
 title: The Holy Gnostic Rosary
----
+author: Arthur A. Vanderbilt
+format: complete
+date: 2017-10-05 11:27:39
+css: http://avanderbilt.github.io/css/md-styles.css
+
+# The Holy Gnostic Rosary
 
 _The Gnostic Rosary was formed from the meditational practice of The Guild, a devotional society of the Ecclesia Gnostica formerly directed by Rev. John Goelz and Rev. Steven Marshall. The original is [here](http://gnosis.org/library/rosary.htm)._
 

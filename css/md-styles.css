@@ -1,0 +1,193 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans|Roboto|Source+Code+Pro);
+@import url(critic.css);
+
+html {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 150.0%;
+    color: #212121;
+    -webkit-font-smoothing: antialiased;
+}
+
+p {
+    line-height: 2.0rem;
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+}
+
+ul,
+ol {
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+}
+
+ul li,
+ol li {
+    line-height: 1.5rem;
+    margin-top: 0.25rem;
+    margin-bottom: .025;
+}
+
+ul ul,
+ol ul,
+ul ol,
+ol ol {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+blockquote {
+    line-height: 2.0rem;
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    margin-top: 1rem;
+    margin-bottom: 0.5rem;
+    line-height: 2.5rem;
+}
+
+h1 {
+    font-size: 1.5rem;
+    line-height: 3.0rem;
+}
+
+h2 {
+    font-size: 1.25rem;
+    line-height: 2.75rem;
+}
+
+h3 {
+    font-size: 1.125rem;
+    line-height: 2.625rem;
+}
+
+h4 {
+    font-size: 1.0rem;
+    line-height: 1.125rem;
+}
+
+table {
+    margin-top: 1.25rem;
+    margin-bottom: 1.25rem;
+    border-spacing: 0.5rem;
+    border-collapse: collapse;
+}
+
+table, th, td {
+   border: 1px solid black;
+}
+
+th, td {
+    padding: 0.25;
+    text-align: left;
+    line-height: 1.25rem;
+}
+
+table td,
+table th {
+    padding: 0.25rem;
+    line-height: 1.25rem;
+    vertical-align: top;
+}
+
+code {
+    font-family: 'Source Code Pro', sans-serif;
+    vertical-align: bottom;
+    line-height: 2.0rem;
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+}
+
+a:link {
+    color: #0D47A1;
+    text-decoration: none;
+}
+
+a:visited {
+    color: #0D47A1;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #0D47A1;
+    text-decoration: underline;
+}
+
+a:active {
+    color: #0D47A1;
+    text-decoration: underline;
+}
+
+.lead {
+    font-size: 1.25rem;
+}
+
+.hug {
+    margin-top: 0;
+}
+
+/* From the Marked skeleton CSS */
+
+.footnote {
+    color: #0D47A1;
+    font-size: .8em;
+    vertical-align: super;
+}
+
+figure {
+}
+
+figcaption {
+    font-style: italic;
+    -webkit-transition: all .2s ease-in-out;
+    -moz-transition: all .2s ease-in-out;
+    -o-transition: all .2s ease-in-out;
+    -ms-transition: all .2s ease-in-out;
+    transition: all .2s ease-in-out;
+}
+
+.poetry pre {
+    display: block;
+    font-family: Georgia, Garamond, serif !important;
+    font-size: 110% !important;
+    font-style: italic;
+    line-height: 1.6em;
+    margin-left: 1em;
+}
+
+.poetry pre code {
+    font-family: Georgia, Garamond, serif !important;
+}
+
+sup,sub,a.footnote {
+    font-size: 1.4ex;
+    height: 0;
+    line-height: 1;
+    position: relative;
+    vertical-align: super;
+}
+
+sub {
+    vertical-align: sub;
+    top: -1px;
+}
+
+.annotation {
+    color: #996633;
+}
+
+.highlight {
+    background-color: #FFFF99;
+}
+
+.verseno {
+    font-size: 0.75rem;
+    font-weight: bold;
+    vertical-align: top;
+}

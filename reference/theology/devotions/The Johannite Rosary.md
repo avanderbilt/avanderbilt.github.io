@@ -1,7 +1,10 @@
----
-layout: page
-title: The Johannite Rosary
----
+title: The Johannite Rosary  
+author: Arthur A. Vanderbilt
+format: complete
+date: 2017-10-05 11:27:39
+css: http://avanderbilt.github.io/css/md-styles.css
+
+# The Johannite Rosary
 
 _The Johannite Rosary is copyright 2011 by Msgr. Scott Rassbach._
 
