@@ -7,6 +7,8 @@ published: true
 date: 2017-05-17 14:17:00
 ---
 
+Some collected resources about the practice of keeping a commonplace book or zibaldone.
+
 ## Zibaldone
 
 - [How to Keep a Zibaldone, the 13th Century's Answer to Tumblr](http://www.atlasobscura.com/articles/how-to-keep-a-zibaldone-a-13thcentury-answer-to-tumblr)

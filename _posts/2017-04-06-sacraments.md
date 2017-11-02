@@ -7,7 +7,7 @@ published: true
 date: 2017-04-06 11:09:00
 ---
 
-## Which Denominations Recognize Which Sacraments
+Various Christian denomination recognize more of less sacraments than one another and often less than is traditional.
 
 ### The Sacraments (or Mysteries)
 
