@@ -1,0 +1,72 @@
+.critic mark.crit,
+.critic del.crit,
+.critic ins.crit {
+    -moz-border-radius: 3px;
+    -webkit-border-radius: 3px;
+    border-radius: 3px;
+}
+
+.critic mark.crit {
+    background-color: #fffd38;
+    text-decoration: none;
+}
+
+.critic del.crit {
+    background-color: rgba(183, 47, 47, 0.4);
+    text-decoration: none;
+}
+
+.critic ins.crit {
+    background-color: rgba(152, 200, 86, 0.4);
+    text-decoration: none;
+}
+
+.critic ins.crit.criticbreak {
+    display: block;
+    line-height: 2px;
+    padding: 0 !important;
+    margin: 0 !important;
+}
+
+.critic ins.crit.criticbreak span {
+    line-height: 1.5em;
+}
+
+.critic .criticcomment {
+    background: rgba(255, 224, 71, 0.85);
+    opacity: 0.75;
+}
+
+.critic .criticcomment.inline {
+    font-size: .75rem !important;
+    position: relative;
+    top: -.5em;
+    font-weight: 700 !important;
+    background: rgba(255, 224, 71, 0.85);
+    padding: 0;
+    opacity: 1;
+}
+
+.critic .criticcomment.inline:before {
+    content: attr(data-comment);
+    display: none;
+    font-weight: normal;
+    font-family: Courier, monospace;
+    font-size: 1rem;
+}
+
+.critic .criticcomment.inline:hover::before {
+    width: 250px;
+    white-space: pre-wrap;
+    white-space: pre-line;
+    display: block;
+    position: absolute;
+    background: rgba(255, 224, 71, 0.9);
+    padding: .25rem;
+}
+
+.critic .criticcomment.inline:hover {
+    z-index: 10;
+    position: relative;
+    cursor: pointer;
+}
